@@ -10,16 +10,16 @@
 
 -[X] Clone files to Github Desktop and Upload them to Visual Studio DONE
 
--[] Run the code, locate problems under 'Problems' tab 
+-[ ] Run the code, locate problems under 'Problems' tab 
 
--[] Analyze code in Visual Studio, leave comments for each problem
+-[ ] Analyze code in Visual Studio, leave comments for each problem
 
--[] Assign each problem to a group member 
+-[ ] Assign each problem to a group member 
 
--[] Work each problem and find a solution
+-[ ] Work each problem and find a solution
 
--[] Make notes of successful changes, and also unsuccessful attempts
+-[ ] Make notes of successful changes, and also unsuccessful attempts
 
--[] Discuss progress with group members/Exchange Notes
+-[ ] Discuss progress with group members/Exchange Notes
 
--[] Create a PowerPoint slide to set expectations
+-[ ] Create a PowerPoint slide to set expectations
