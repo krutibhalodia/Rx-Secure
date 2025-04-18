@@ -1,6 +1,6 @@
-# MedMagic
+# Rx-Secure
 
-***MedMagic*** is a simple application that allows users to search for any clinical drug through the National Library of Medicine's RxNorm API.
+***Rx-Securec*** is a simple application that allows users to search for any clinical drug through the National Library of Medicine's RxNorm API.
 
 ## Table of Contents
 
