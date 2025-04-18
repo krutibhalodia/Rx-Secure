@@ -49,6 +49,6 @@ python wsgi.py
 
 ### Other Information
 
-MedMagic also includes an image search running off a microservice. Simply navigate to the search page, select 'Image' in the drop down and search for anything you want! The image microservice is currently deployed [here](https://image-srv.herokuapp.com/), and the source code can be found [here](https://github.com/shenalexw/image-microservice). 
+Rx-Secure also includes an image search running off a microservice. Simply navigate to the search page, select 'Image' in the drop down and search for anything you want! The image microservice is currently deployed [here](https://image-srv.herokuapp.com/), and the source code can be found [here](https://github.com/shenalexw/image-microservice). 
 
-MedMagic also utilizes a UUID generator microservice. The UUID generator is currently deployed [here](https://uuid-genie.herokuapp.com/), and the source code can be found [here](https://github.com/chrismannina/uuid-genie).
+Rx-Secure also utilizes a UUID generator microservice. The UUID generator is currently deployed [here](https://uuid-genie.herokuapp.com/), and the source code can be found [here](https://github.com/chrismannina/uuid-genie).
