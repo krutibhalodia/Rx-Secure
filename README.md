@@ -34,8 +34,8 @@ To run this application locally, please follow the instructions below.
 - Python 3
 #### Installation
 ```
-git clone https://github.com/chrismannina/med-magic.git
-cd med-magic
+git clone https://github.com//krutibhalodia/Rx-Secure.git
+cd Rx-Secure
 pip install -r requirements.txt
 pip install python-dotenv
 ```
