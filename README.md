@@ -37,6 +37,7 @@ To run this application locally, please follow the instructions below.
 git clone https://github.com/chrismannina/med-magic.git
 cd med-magic
 pip install -r requirements.txt
+pip install python-dotenv
 ```
 #### Start Up
 ```
